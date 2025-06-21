@@ -1,0 +1,3 @@
+kinit ton_login@42.FR
+klist > klist.txt
+
